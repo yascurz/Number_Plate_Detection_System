@@ -1,8 +1,2 @@
-# Car-Number-Plate-Detection-and-Information-Provider-System
-
-Task Description
-
- In this task :
-👉Create a model that will detect a car in a live stream or video and recognize characters on number plate of the car .
-👉Secondly , it will use the characters and fetch the owners information using RTO API’s .
-👉Create a Web portal where all this information will be displayed (using html,css,and js). 
+With the upcoming surge of E-challans in the country , this project mainly deals with replacement of digital handicams as well with usual smart phones and replaces the manual work to automatic.Basically , what happens is that Cops tend to use handicams to take the pictures of the number plates. This act is still prevailing in the cities which are not yet developed And even, some cops do this manually. So , cost effectively, this software replaces the handicams with usual cameras of smart phones and it detects the number plate and process the further data from the database.
+Team Members : Abhinav, Sandeep, Yashika 
